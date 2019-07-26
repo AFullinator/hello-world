@@ -1,1 +1,6 @@
-# hello-world
+# hello-world 
+
+Hello, Fellow GitHub People!
+
+Alex here, and I would like to tell you that:
+I am  a creator on GitHub. That's all for now, bye!
